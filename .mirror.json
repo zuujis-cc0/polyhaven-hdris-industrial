@@ -1,0 +1,26 @@
+{
+ "assets": {
+  "barnaslingan_01": "cb73bd218db1a77a7d5c6dc775363bc894fe0285",
+  "barnaslingan_02": "4f8f7328fa3bfe48fb76e5a357a0e0396c3793d0",
+  "brick_factory_02": "90a7b8f6fb4f6ab7cc2ce7faa731f310e9d2530e",
+  "construction_yard": "94f065a2f6d60d724f8e67706650782d9c50d3e6",
+  "factory_yard": "4ce64fdce81934b56e9cf7216c5e30294d483932",
+  "freight_station": "e0236b0f07fb0bc62165689a49d51d78b266a037",
+  "future_parking": "ab3425b36e8d2b6b0549cd6c631606a293752533",
+  "hangar_interior": "e0fe7b3ace44e019f018e191522bd9eb6cd86e2e",
+  "hanger_exterior_cloudy": "54ebf2fc10f605876a9a38ecd480e5a74d505037",
+  "industrial_pipe_and_valve_01": "7612a767c9758376e000afdb52e884909f38d50b",
+  "industrial_pipe_and_valve_02": "23bf9ed78f4971d04315799a3122a335e83c76f3",
+  "interior_construction": "3c5fa38c06bc542873d147a453a4718779e592df",
+  "minedump_flats": "35aa835bae00245133ff83b65ab1973afe0cb09f",
+  "small_hangar_01": "fd3900ee4bd4a135456a6e429fc650421d0e84d3",
+  "small_hangar_02": "c725e75fe488f36c7b8b35ce1a19d6fbcb6b4fd9",
+  "sunset_in_the_chalk_quarry": "ed85e0b20206fd2ba17fdeee9697b500a1c7f021",
+  "unfinished_office": "a67a21e5017b702d5420081727a57ce9e52af326",
+  "unfinished_office_night": "830c341749b78d24f7030755d4bd13a75873a66f"
+ },
+ "license": "https://polyhaven.com/license",
+ "site": "https://polyhaven.com",
+ "source": "polyhaven",
+ "template": 1
+}
